@@ -63,5 +63,29 @@ namespace CRUD_OprationSP_Con
             MessageBox.Show("Sucessfully updated");
             LoadRecords();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            con.Open();
+            if (MessageBox.Show("Are you confirm to delete?", "Delete", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                SqlCommand com = new SqlCommand("exec dbo.SP_Product_Delete'" + int.Parse(textBox1.Text) + "' ", con);
+                com.ExecuteNonQuery();
+                con.Close();
+                MessageBox.Show("Sucessfully deleted");
+                LoadRecords();
+            }
+
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            SqlCommand com = new SqlCommand("exec dbo.SP_Product_search'"+int.Parse(textBox1.Text)+"'", con);
+            SqlDataAdapter da = new SqlDataAdapter(com);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            dataGridView1.DataSource = dt;
+        }
     }
 }

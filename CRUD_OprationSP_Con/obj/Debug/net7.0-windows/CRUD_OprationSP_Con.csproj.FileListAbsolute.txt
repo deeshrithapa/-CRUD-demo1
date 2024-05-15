@@ -22,3 +22,4 @@ C:\Users\Dell\source\repos\CRUD_OprationSP_Con\CRUD_OprationSP_Con\obj\Debug\net
 C:\Users\Dell\source\repos\CRUD_OprationSP_Con\CRUD_OprationSP_Con\obj\Debug\net7.0-windows\CRUD_OprationSP_Con.pdb
 C:\Users\Dell\source\repos\CRUD_OprationSP_Con\CRUD_OprationSP_Con\obj\Debug\net7.0-windows\CRUD_OprationSP_Con.genruntimeconfig.cache
 C:\Users\Dell\source\repos\CRUD_OprationSP_Con\CRUD_OprationSP_Con\obj\Debug\net7.0-windows\ref\CRUD_OprationSP_Con.dll
+C:\Users\Dell\source\repos\CRUD_OprationSP_Con\CRUD_OprationSP_Con\obj\Debug\net7.0-windows\CRUD_OprationSP_Con.sourcelink.json

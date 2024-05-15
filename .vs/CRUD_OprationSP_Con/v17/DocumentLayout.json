@@ -3,15 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\CRUD_OprationSP_Con\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA378185-42A1-48D9-BD9A-BB0EA5CB11AE}|CRUD_OprationSP_Con\\CRUD_OprationSP_Con.csproj|c:\\users\\dell\\source\\repos\\crud_oprationsp_con\\crud_oprationsp_con\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA378185-42A1-48D9-BD9A-BB0EA5CB11AE}|CRUD_OprationSP_Con\\CRUD_OprationSP_Con.csproj|solutionrelative:crud_oprationsp_con\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA378185-42A1-48D9-BD9A-BB0EA5CB11AE}|CRUD_OprationSP_Con\\CRUD_OprationSP_Con.csproj|C:\\Users\\Dell\\source\\repos\\CRUD_OprationSP_Con\\crud_oprationsp_con\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA378185-42A1-48D9-BD9A-BB0EA5CB11AE}|CRUD_OprationSP_Con\\CRUD_OprationSP_Con.csproj|solutionrelative:crud_oprationsp_con\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DEESHRI/CRUD_SP_DB/True/SqlTable/dbo.ProductInfo_Tab.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{CA378185-42A1-48D9-BD9A-BB0EA5CB11AE}|CRUD_OprationSP_Con\\CRUD_OprationSP_Con.csproj|c:\\users\\dell\\source\\repos\\crud_oprationsp_con\\crud_oprationsp_con\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA378185-42A1-48D9-BD9A-BB0EA5CB11AE}|CRUD_OprationSP_Con\\CRUD_OprationSP_Con.csproj|solutionrelative:crud_oprationsp_con\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUD_OprationSP_Con\\CRUD_OprationSP_Con\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_OprationSP_Con\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUD_OprationSP_Con\\CRUD_OprationSP_Con\\Form1.cs",
+              "RelativeToolTip": "CRUD_OprationSP_Con\\Form1.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAhwFkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:17:02.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUD_OprationSP_Con\\CRUD_OprationSP_Con\\Form1.cs",
               "RelativeDocumentMoniker": "CRUD_OprationSP_Con\\Form1.cs",
@@ -38,29 +48,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T14:50:02.817Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUD_OprationSP_Con\\CRUD_OprationSP_Con\\Form1.cs",
-              "RelativeDocumentMoniker": "CRUD_OprationSP_Con\\Form1.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUD_OprationSP_Con\\CRUD_OprationSP_Con\\Form1.cs",
-              "RelativeToolTip": "CRUD_OprationSP_Con\\Form1.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowDYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:37:22.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.ProductInfo_Tab [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DEESHRI/CRUD_SP_DB/True/SqlTable/dbo.ProductInfo_Tab.sql",
-              "ToolTip": "dbo.ProductInfo_Tab [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-14T15:06:39.104Z",
-              "EditorCaption": ""
             }
           ]
         }
